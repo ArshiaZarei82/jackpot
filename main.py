@@ -1,7 +1,6 @@
 # from tkinter import Entry
 from module import *
 
-
 player1score = 0
 player2score = 0
 
